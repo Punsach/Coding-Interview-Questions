@@ -4,4 +4,5 @@ I created this repository to store solutions I wrote to different problems in Cr
 
 Solutions Written: 
 
+CTCH Chapter 1 Question 1
 CTCI Chapter 1 Question 2
