@@ -5,4 +5,5 @@ I created this repository to store solutions I wrote to different problems in Cr
 Solutions Written: 
 
 CTCI Chapter 1 Question 1  <br />
-CTCI Chapter 1 Question 2
+CTCI Chapter 1 Question 2  <br /> 
+CTCI Chapter 1 Question 3
