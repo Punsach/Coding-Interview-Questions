@@ -7,4 +7,5 @@ Solutions Written:
 CTCI Chapter 1 Question 1  <br />
 CTCI Chapter 1 Question 2  <br /> 
 CTCI Chapter 1 Question 3  <br />
-CTCI Chapter 1 Question 4
+CTCI Chapter 1 Question 4  <br />
+CTCI Chapter 1 Question 5  
