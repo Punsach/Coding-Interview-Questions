@@ -8,4 +8,5 @@ CTCI Chapter 1 Question 1  <br />
 CTCI Chapter 1 Question 2  <br /> 
 CTCI Chapter 1 Question 3  <br />
 CTCI Chapter 1 Question 4  <br />
-CTCI Chapter 1 Question 5  
+CTCI Chapter 1 Question 5  <br />
+CTCI Chapter 1 Question 6 
